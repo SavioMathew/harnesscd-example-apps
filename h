@@ -7,3 +7,4 @@ bolo
 6
 maja
 ma 
+che
