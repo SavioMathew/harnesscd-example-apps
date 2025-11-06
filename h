@@ -5,4 +5,3 @@ bye
 ki 
 bolo
 6
-maja
