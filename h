@@ -3,4 +3,4 @@ hello
 bye
 bye
 ki 
-bolo
+bol
